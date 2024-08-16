@@ -30,7 +30,7 @@ We developed a mobile version:
 
 - Connect the ESP32 to the foosball table with the phototransistors, lasers, buzzer, display, and buttons as in the wiring diagram.
 - Upload the code to the ESP32 (make sure you change the pins in the code accordinly to the schematic)
-- ![wiring](https://github.com/Ne-Se-Chete/AppolicaInternSmartFoosball/blob/main/images/wiring.png?raw=true)
+![wiring](https://github.com/Ne-Se-Chete/AppolicaInternSmartFoosball/blob/main/images/wiring.png?raw=true)
 
 - Make sure you align the phototransistors to be lighted by the lasers.
 - Power On: Power on the ESP32, and it will automatically start detecting goals and updating the display.
