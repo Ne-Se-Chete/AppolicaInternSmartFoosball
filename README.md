@@ -1,5 +1,5 @@
 
-![Header](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/header.png)
+![Header](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/header.png)
 
 # AppolicaSmartJagi
 
@@ -8,7 +8,7 @@ This project was developed during our internship at Appolica as part of an IoT s
 
 # Hardware Components
 
-![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/foosball1.png)
+![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/foosball1.png)
 
 - ESP32: The central microcontroller used for handling all the inputs, outputs, and Wi-Fi communication.
 - Phototransistors: Initially, we started with photoresistors to detect the ball passing through the goals. However, we found that photoresistors were too slow to handle fast-paced foosball shots. We switched to phototransistors because of their faster response time, making them better suited for this application.
@@ -19,18 +19,18 @@ This project was developed during our internship at Appolica as part of an IoT s
 
 # Demo
 We installed the frontend on a TV in the office:
-![office](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/office.jpg)
+![office](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/office.jpg)
 We developed a mobile version:
-![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile1.jpg)
-![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile2.jpg)
-![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile3.jpg)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/mobile1.jpg)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/mobile2.jpg)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/mobile3.jpg)
 
 
 # Usage
 
 - Connect the ESP32 to the foosball table with the phototransistors, lasers, buzzer, display, and buttons as in the wiring diagram.
 - Upload the code to the ESP32 (make sure you change the pins in the code accordinly to the schematic)
-- ![wiring](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/wiring.png)
+- ![wiring](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/wiring.png)
 
 - Make sure you align the phototransistors to be lighted by the lasers.
 - Power On: Power on the ESP32, and it will automatically start detecting goals and updating the display.
@@ -40,6 +40,7 @@ We developed a mobile version:
 # Future Improvements
 - Enhanced Accuracy: Further fine-tuning of the phototransistor and laser setup to ensure 100% accurate goal detection.
 - Additional Features: Integration of player identification for personalized statistics and tracking.
+- Discord / Slack bot for even more fun!
 
 # Development
 How we worked:
