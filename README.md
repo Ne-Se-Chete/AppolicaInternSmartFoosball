@@ -19,19 +19,12 @@ This project was developed during our internship at Appolica as part of an IoT s
 
 # Demo
 We installed the frontend on a TV in the office:
-![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/office.png)
+![office](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/office.jpg)
 We developed a mobile version:
-![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile1.png)
-![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile2.png)
-![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile3.png)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile1.jpg)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile2.jpg)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/images/mobile3.jpg)
 
-# Development
-How we worked:
-
-Simeon - Bubble.io app
-Valeri - Bubble.io app + Embedded
-Borislav - Bubble.io app + vacation
-Yasen - Embedded
 
 # Usage
 
@@ -47,6 +40,14 @@ Yasen - Embedded
 # Future Improvements
 - Enhanced Accuracy: Further fine-tuning of the phototransistor and laser setup to ensure 100% accurate goal detection.
 - Additional Features: Integration of player identification for personalized statistics and tracking.
+
+# Development
+How we worked:
+
+Simeon - Bubble.io app
+Valeri - Bubble.io app + Embedded
+Borislav - Bubble.io app + vacation
+Yasen - Embedded
 
 # Contribute
 This project was developed by [Ne Se Chete]. We appreciate any feedback or suggestions for further improvements!
