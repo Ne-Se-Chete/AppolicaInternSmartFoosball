@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/Ne-Se-Chete/AppolicaInternSmartFoosball/blob/main/images/Header.png)
 
-# AppolicaSmartJagi
+# AppolicaSmartFoosball
 
 This project was developed during our internship at Appolica as part of an IoT system designed for a foosball table. Our system is built around an ESP32 microcontroller and integrates various sensors and components to automate score tracking, provide real-time statistics, and offer a modern twist to the classic foosball game.
 
