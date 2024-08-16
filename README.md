@@ -45,14 +45,13 @@ We developed a mobile version:
 # Development
 How we worked:
 
-Simeon - Bubble.io app
-Valeri - Bubble.io app + Embedded
-Borislav - Bubble.io app + vacation
-Yasen - Embedded
+- Simeon - Bubble.io app
+- Valeri - Bubble.io app + Embedded
+- Borislav - Bubble.io app + vacation
+- Yasen - Embedded
 
 # Contribute
 This project was developed by [Ne Se Chete]. We appreciate any feedback or suggestions for further improvements!
-
 
 # License
 
