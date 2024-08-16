@@ -1,5 +1,5 @@
 
-![Header](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/header.png)
+![Header](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/Header.png)
 
 # AppolicaSmartJagi
 
@@ -8,7 +8,7 @@ This project was developed during our internship at Appolica as part of an IoT s
 
 # Hardware Components
 
-![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/foosball1.png)
+![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/foosball1.jpg)
 
 - ESP32: The central microcontroller used for handling all the inputs, outputs, and Wi-Fi communication.
 - Phototransistors: Initially, we started with photoresistors to detect the ball passing through the goals. However, we found that photoresistors were too slow to handle fast-paced foosball shots. We switched to phototransistors because of their faster response time, making them better suited for this application.
