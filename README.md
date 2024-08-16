@@ -1,5 +1,5 @@
 
-![Header](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/Header.png?raw=true)
+![Header](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/blob/main/images/Header.png)
 
 # AppolicaSmartJagi
 
@@ -8,7 +8,7 @@ This project was developed during our internship at Appolica as part of an IoT s
 
 # Hardware Components
 
-![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/foosball1.jpg?raw=true)
+![foosball img](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/blob/main/images/foosball1.jpg?raw=true)
 
 - ESP32: The central microcontroller used for handling all the inputs, outputs, and Wi-Fi communication.
 - Phototransistors: Initially, we started with photoresistors to detect the ball passing through the goals. However, we found that photoresistors were too slow to handle fast-paced foosball shots. We switched to phototransistors because of their faster response time, making them better suited for this application.
@@ -19,11 +19,11 @@ This project was developed during our internship at Appolica as part of an IoT s
 
 # Demo
 We installed the frontend on a TV in the office:
-![office](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/office.jpg?raw=true)
+![office](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/blob/main/images/office.jpg?raw=true)
 We developed a mobile version:
-![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/mobile1.jpg?raw=true)
-![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/mobile2.jpg?raw=true)
-![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/tree/main/images/mobile3.jpg?raw=true)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/blob/main/images/mobile1.jpg?raw=true)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/blob/main/images/mobile2.jpg?raw=true)
+![mobile1](https://github.com/Ne-Se-Chete/AppolicaInternSmartJagi/blob/main/images/mobile3.jpg?raw=true)
 
 
 # Usage
